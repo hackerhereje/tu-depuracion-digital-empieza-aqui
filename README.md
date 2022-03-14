@@ -34,4 +34,4 @@
 
 fundado en 2020, **HACKER HEREJE** es un proyecto tecno-artístico que, mediante cursos, charlas, talleres, jornadas, etc., impulsa la alfabetización digital, la defensa de la privacidad, la seguridad en línea y la descentralización de las comunicaciones. **HACKER HEREJE** toma como inspiración a los pioneros de la ingeniería social, los moriscos granadinos creadores de los *libros de plomo* del sacromonte, herejes y adelantados de la cultura hacker.
 
-el fundador de **HACKER HEREJE** es **ÁNGEL ARIAS**, activista digital, músico, diseñador de software, «live coder» y realizador de vídeo.
+el fundador de **HACKER HEREJE** es **ÁNGEL ARIAS**, activista, evangelista y educador sobre privacidad y seguridad digital, músico, diseñador de software, «live coder» y realizador de vídeo.
