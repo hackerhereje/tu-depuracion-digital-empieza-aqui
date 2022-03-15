@@ -24,5 +24,4 @@ el cifrado es el proceso de convertir cualquier información en ilegible para ev
 metadato es toda aquella información que describe datos. en esencia, los metadatos responden a **quién**, **qué**, **cuándo**, **dónde**, **por qué** y **cómo** sobre cada faceta de los datos que se documentan. con una cantidad suficiente de metadatos, es fácil hacerse una idea relativamente fiable de quién eres, a quién conoces, dónde estás, etc.; la cámara del móvil, por ejemplo, registra datos sobre cuándo y dónde se tomó una imagen y qué configuración de hardware y software se utilizó; los documentos de oficina como pdf u office añaden automáticamente información sobre el autor y la empresa a archivos de texto y hojas de cálculo; quizá no quieras revelar esa información.
 
 #### «GUÍA FÁCIL DE SEGURIDAD DIGITAL» ES UN PROYECTO DE
-
-![gallogayoheader](https://user-images.githubusercontent.com/70276705/158346294-612db22d-8a50-40c9-b93a-960dac9f0ad2.png)
+<img src="https://user-images.githubusercontent.com/70276705/158346294-612db22d-8a50-40c9-b93a-960dac9f0ad2.png" width=50% height="auto">
