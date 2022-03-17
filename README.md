@@ -6,7 +6,7 @@
 
 ### EL PROYECTO
 
-**TU DEPURACIÓN DIGITAL EMPIEZA AQUÍ** es un paquete de talleres que pretende desarrollar hábitos y tácticas que nos permitan tomar el control de nuestra privacidad, nuestra seguridad y nuestro bienestar digital mediante la invitación al debate, la aplicación práctica y el uso de herramientas alternativas de código abierto. los talleres serán presenciales y participativos. la duración de cada taller oscilará entre los 60 y los 90 minutos con una asistencia ideal de entre 10 a 25 personas. el coste de cada taller varía entre los €150 y los €200, según la duración.
+**TU DEPURACIÓN DIGITAL EMPIEZA AQUÍ** es un paquete de talleres que pretende desarrollar hábitos y tácticas que nos permitan tomar el control de nuestra privacidad, nuestra seguridad y nuestro bienestar digital mediante la invitación al debate, la aplicación práctica y el uso de herramientas alternativas de código abierto. los talleres serán presenciales y participativos. la duración de cada taller oscilará entre los 60 y los 90 minutos con una asistencia ideal de entre 10 a 25 personas.
 
 ---
 
