@@ -1,6 +1,6 @@
 ## TU DEPURACIÓN DIGITAL EMPIEZA AQUÍ
 
-*la privacidad es la condición necesaria para desarrollar nuestro yo más genuino y para asumir la responsabilidad individual de todas nuestras decisiones y acciones. defender la privacidad es proteger lo que nos hace humanos: nuestra personalidad, nuestro comportamiento, nuestras relaciones, nuestros miedos y vulnerabilidades. la privacidad es un derecho humano y, sin embargo, los gobiernos, las empresas y entidades poderosas nos impiden ejercer ese derecho a la intimidad mediante la vigilancia, el control y el seguimiento sistemático.*
+*la privacidad es la condición necesaria para desarrollar nuestro yo más genuino y para asumir la responsabilidad individual de todas nuestras decisiones y acciones. defender la privacidad es proteger lo que nos hace humanos: nuestra personalidad, nuestro comportamiento, nuestras relaciones, nuestros miedos y vulnerabilidades. la privacidad es un derecho humano y, sin embargo, los gobiernos, las empresas y grandes organizaciones sin rostro nos impiden ejercer ese derecho a la intimidad mediante la vigilancia, el control y el seguimiento sistemático.*
 
 ---
 
